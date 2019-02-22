@@ -1,0 +1,58 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# 
+- name:
+    detail: 고3 이 X 혁
+    i18n: company_a
+  desc:
+    detail: 테스트 중입니다 그래요 테스트 중이예요
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: 과외
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 고3 이 X 혁
+    i18n: company_a
+  desc:
+    detail: 테스트 중입니다 그래요 테스트 중이예요
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: 과외
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 고3 이 X 혁
+    i18n: company_a
+  desc:
+    detail: 테스트 중입니다 그래요 테스트 중이예요
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: 과외
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 고3 이 X 혁
+    i18n: company_a
+  desc:
+    detail: 테스트 중입니다 그래요 테스트 중이예요
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: 과외
+    i18n: company_a_job
+  icon: fa-plus-square
